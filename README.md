@@ -2,9 +2,7 @@ Followed this Figma design: https://www.figma.com/design/5n1Y5yxk3AnAbQ7g0ZfROG/
 
 Make an api request from: https://github.com/DastanNK/findWorkApi/blob/main/work.json
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9d5d9c23-c3ed-4c36-a120-9f8377d99278" alt="Shrunk Image" width="300"/>
-</p>
+https://github.com/user-attachments/assets/9d5d9c23-c3ed-4c36-a120-9f8377d99278
 
 
 <p align="center">
